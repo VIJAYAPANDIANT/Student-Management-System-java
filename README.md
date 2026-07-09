@@ -48,11 +48,11 @@ Student-Management-System/
 ### Installation & Execution
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/Student-Management-System-java.git
+   git clone https://github.com/yourusername/student-management-system-java.git
    ```
 2. **Navigate to the project directory:**
    ```bash
-   cd Student-Management-System-java
+   cd student-management-system-java
    ```
 3. **Compile the program:**
    ```bash
@@ -112,4 +112,4 @@ This project is open-source and available under the **MIT License**. Feel free t
 
 ---
 
-**Happy Coding!** 🚀
+**Happy Coding!** 🚀
